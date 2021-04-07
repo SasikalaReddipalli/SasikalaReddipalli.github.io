@@ -216,7 +216,7 @@ img {
   color: var(--first-color);
 }
 .home__img {
-  position: absolute;
+  position: center;
   right: 0;
   bottom: 0;
   width: 295px;
@@ -374,7 +374,7 @@ img {
     margin: 0;
   }
   .section {
-    padding-top: 4rem;
+    padding-top: 0rem;
     padding-bottom: 3rem;
   }
   .section-title {
